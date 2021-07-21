@@ -5,7 +5,7 @@
 
 
 ------
-Developed a web chatting app with advanced features such as the ability to create multiple chatrooms and add up to 25 users. Used  CSS to create online statues, sound  notifications, and icons that indicated who read the message, as well as a fantastic user interface. MaterialUI icons were used to create the image insert and send icons. Employed React Hooks to create functional components more efficiently.
+Created a chat app with JavaScript, HTML/CSS and React.js. Developed a web chatting app with advanced features such as the ability to create multiple chatrooms and add up to 25 users. Used CSS to create online statues, sound notifications, and icons that indicated who read the message, as well as a fantastic user interface. MaterialUI icons were used to create the image insert and send icons. Employed React Hooks to create functional components more efficiently.
 
 # Login Form
 ![login](https://user-images.githubusercontent.com/87496634/126426272-aebbcca9-7fd9-4eb2-977d-a30b922dceff.PNG)
