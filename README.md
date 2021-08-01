@@ -1,6 +1,6 @@
 <h1 align="center">Chatlify App</h1>
 <p align="center">
-   <a href="https://ani2048.netlify.app/"><img src="![image](https://user-images.githubusercontent.com/87496634/127788428-6a121b95-9c13-4a98-aff9-82df0802829c.png)></img></a>
+   <a href="https://ani2048.netlify.app/"><img src="https://user-images.githubusercontent.com/87496634/127788428-6a121b95-9c13-4a98-aff9-82df0802829c.png" width="100"></img></a>
 </p>
 
 
