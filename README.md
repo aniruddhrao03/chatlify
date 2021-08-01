@@ -5,7 +5,7 @@
 
 
 ------
-Built a chat app with JavaScript, HTML/CSS and React.js. Developed a web chatting app with advanced features such as the ability to create multiple chatrooms and add up to 25 users. Used CSS to create online statues, sound notifications, and icons that indicated who read the message, as well as a fantastic user interface. MaterialUI icons were used to create the image insert and send icons. Employed React Hooks to create functional components more efficiently.
+Built this game with JavaScript, HTML/CSS and React.js. This game is a clone of the original game 2048. 2048 is played on a 4×4 grid, with numbered tiles that slide smoothly when a player moves them using the four arrow keys. Each time you slide, a new tile will randomly appear in an empty spot on the board. Tiles slide as far as possible in the chosen direction until they are stopped by either another tile or the edge of the grid. If two tiles of the same number collide while moving, they will merge into a tile with the total value of the two tiles that collided. The resulting tile cannot merge with another tile again in the same move. 
 
 # Login Form
 ![login](https://user-images.githubusercontent.com/87496634/126426272-aebbcca9-7fd9-4eb2-977d-a30b922dceff.PNG)
